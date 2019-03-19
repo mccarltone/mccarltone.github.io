@@ -3,7 +3,7 @@ layout: page
 title: WAZE
 subtitle: Supporters
 ---
-
+|---
 |:-:|:-:|
 |[![Yellow Bridge](/img/yellowbr.jpg)](https://www.yellowbridgebrewing.com/)|Yellow Bridge|
 |[![Quinn Brewing](/img/quinn-logo.jpg){:width="153px"}](http://quinnbrewing.com/)|Quinn Brewing Company|
