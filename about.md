@@ -4,4 +4,4 @@ title: About
 subtitle: About the club
 ---
 
-![alt text](/img/waze-banner "WAZE")
+![WAZE](/img/waze-banner)
